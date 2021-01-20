@@ -20,12 +20,12 @@ $matches = [
   ],
   [
     "team1"=>"Cleveland",
-    "team2"=>"Baltimore Orioles",
+    "team2"=>"Boston Red Sox",
     "score1"=>53,
     "score2"=>55
   ],
   [
-    "team1"=>"Cleveland",
+    "team1"=>"New York Yankees",
     "team2"=>"Baltimore Orioles",
     "score1"=>29,
     "score2"=>46
